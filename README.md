@@ -35,6 +35,7 @@
 - 개념과 기하학적 해석, Reduced SVD
 - 잠재의미분석(LSA), 이미지 압축
 
+<br>
 
 ### 참고 자료 및 출처
 1. 공돌이의 수학 정리 노트(https://angeloyeo.github.io/)
