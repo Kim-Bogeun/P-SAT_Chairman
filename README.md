@@ -34,3 +34,12 @@
 - 특이값 분해(SVD)
 - 개념과 기하학적 해석, Reduced SVD
 - 잠재의미분석(LSA), 이미지 압축
+
+
+### 참고 자료 및 출처
+1. 공돌이의 수학 정리 노트(https://angeloyeo.github.io/)
+2. 3blue1brown 선형대수 Youtube (https://www.youtube.com/c/3blue1brown)
+3. P-Sat 학회 내 선형대수학 교안/ppt
+4. 모두를 위한 컨벡스 최적화 (https://convex-optimization-for-all.github.io/)
+5. 혁펜하임 님 유튜브 강의(https://www.youtube.com/channel/UCcbPAIfCa4q0x7x8yFXmBag)
+
